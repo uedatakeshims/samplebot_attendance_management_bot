@@ -36,7 +36,7 @@ SERVER_ID = "4d83f5a3a1e74734a57190014cc09f99"
 SECRET_KEY_NAME = "private_20200723092804.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[appname].herokuapp.com/"
+LOCAL_ADDRESS = "https://appname.herokuapp.com/"
 
 # DB config
 DB_HOST = "ec2-34-202-7-83.compute-1.amazonaws.com"
